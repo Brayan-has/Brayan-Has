@@ -51,7 +51,7 @@ I'am a Backend Developer with training in Software Analysis and Development, and
 
 ---
 
-<h2><strong>Proyectos Destacados</strong></h2>
+<h2><strong>Featured Projects</strong></h2>
 
 ### 🔹 Project 1 — *AxiomaPos*
 <p>
