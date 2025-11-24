@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrayanGomez&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanGomez&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Brayan-Has&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Has&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -52,6 +52,6 @@
 ## 🎯 Gracias por visitar mi perfil
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrayanGomez&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Brayan-Has&color=blueviolet&style=for-the-badge" />
 </p>
 
