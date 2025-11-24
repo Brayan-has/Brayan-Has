@@ -10,7 +10,7 @@
 ---
 
 ## About Me
-I'am a Backend Developer with training in Software Analysis and Development, and experience in IT support and web development. I work with technologies such as Laravel, Node.js, Git, MySQL, PhpMyAdmin, PHP, and Docker, with a strong interest in applying my knowledge to build scalable and secure solutions.
+Backend Developer with training in Software Analysis and Development, and experience in IT support and web development. I work with technologies such as Laravel, Node.js, Git, MySQL, PhpMyAdmin, PHP, and Docker, with a strong interest in applying my knowledge to build scalable and secure solutions.
 
 ---
 
