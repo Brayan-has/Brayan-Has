@@ -44,7 +44,7 @@ I'am a Backend Developer with training in Software Analysis and Development, and
   <a href="https://www.linkedin.com/in/brayan-gomez-b91301244/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:g.nayarb112@gmail.com">
+  <a href="g.nayarb112@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
