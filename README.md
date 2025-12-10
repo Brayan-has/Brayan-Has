@@ -18,7 +18,7 @@ Backend Developer with training in Software Analysis and Development, and experi
 
 <h2><strong>Main Tecnologies</strong></h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,docker,swagger" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,docker,swagger,cloudflare"/>
 </p>
 
 <h2> <strong>Current Learning</strong></h2>
