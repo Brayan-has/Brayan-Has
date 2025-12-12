@@ -31,11 +31,11 @@ Backend Developer with training in Software Analysis and Development, and experi
 
 <h2><strong>📊 GitHub Stats</strong></h2>
 
-<!-- Cambia TU_USUARIO por tu nombre real de GitHub -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brayan-has&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-has&layout=compact&theme=radical" height="165" />
+<!-- Stats section -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brayan-has&" alt="brayan-has" />
 </p>
+
 
 ---
 
